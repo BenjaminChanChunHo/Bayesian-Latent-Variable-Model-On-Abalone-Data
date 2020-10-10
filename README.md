@@ -1,6 +1,6 @@
 # Bayesian Latent Variable Model on Abalone Data
 ## Introduction
-I am [Benjamin Chan](http://www.linkedin.com/in/benjamin-chan-chun-ho). This is my project under taking a course at [Department of Statistics](http://www.sta.cuhk.edu.hk/home.aspx) of [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I take the initiative to pick both data and techniques to demonstrate thorough understanding of course materials.
+I am [Benjamin Chan](http://www.linkedin.com/in/benjamin-chan-chun-ho). This is my project under taking a course at [Department of Statistics](http://www.sta.cuhk.edu.hk/home.aspx) of [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html). I take the initiative to pick both data and techniques to demonstrate thorough understanding of course materials. [Report](https://github.com/BenjaminChanChunHo/Bayesian-Latent-Variable-Model-On-Abalone-Data/blob/main/Bayesian_Latent_Variable_Model_On_Abalone_Data.pdf) is submitted and presentation is given in class.
 
 [Abalone](https://archive.ics.uci.edu/ml/datasets/Abalone) is the 10th most popular data in [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). The biological method for determining age of abalone is time-consuming. There is a need to predict the age from physical measurements that can be easily obtained. `Structural Equation Model (SEM)` can be used to group highly correlated variables into latent variables and assess interrelationship among latent variables.
 
